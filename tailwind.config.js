@@ -1,6 +1,10 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
+  content: [
+    './components/**/*.{html,js}',
+    './pages/**/*.{html,js}',
+    './index.html',
+  ],
   theme: {
     extend: {
       fontFamily: {
@@ -13,10 +17,10 @@ module.exports = {
         "nav-md-text": "rgba(255, 255, 255, 0.8)",
         "bg-button": "rgb(0, 113, 227)",
         "bg-button-hover": "#0077ED",
-        "text-footer": "rgba(0, 0, 0, 0.88)" ,
+        "text-footer": "rgba(0, 0, 0, 0.88)",
         "text-footer-sub-li": "rgba(0, 0, 0, 0.72)"
       },
-      theme:{
+      theme: {
         screens: {
           "2kolom": "731px"
         }

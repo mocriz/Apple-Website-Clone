@@ -14,16 +14,16 @@ Website ini dibikin memakan waktu sekitar 3 harian, dan Website ini dibuat memak
 
 
 Bahas sedikit buat tools atau tech yang gua pake.
-1. *HTML*
+1. **HTML**<br>
 Seperti pada umumnya HTML dipakai buat bikin rangkanya.
 
-2. *JavaScript*
+2. **JavaScript**<br>
 Vanilla JavaScript buat bikin accordion di footer versi Mobile. 
 
-3. *TailwindCSS & CSS*
+3. **TailwindCSS & CSS**<br>
 Dan untuk stylingnya gua pake framework TailwindCss dan juga sedikit memakai vanilla CSS karena ada beberapa yang menurut gua lebih gampang kalo styling di vanilla CSS.
 
-4. *Resource*
+4. **Resource**<br>
 Untuk resource web-nya gua ambil dari website apple, yang gua ambil cuma image aja sih dari situ. Untuk font gua ambil dari repository [ini](https://github.com/gattadesmond/hugo-foundation6/tree/master).
 
 Udah si gitu aja, Bye 👋

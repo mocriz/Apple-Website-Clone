@@ -11,8 +11,6 @@ https://kiizzki.github.io/Apple-Website-Clone/
 
 - The website is fully responsive, optimized on 4k screens, laptops, tablets, and mobile devices.
 - It looks very similar to the original apple website in March 2024, including layout, typography, fonts and colors.
-- Fullscreen mode
-- Cross platform
 
 **Mobile**<br>
     ![mobile](https://private-user-images.githubusercontent.com/146353804/317951522-ee0c1041-0414-4521-a9c6-c290f78c2ddd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE2ODYwMzEsIm5iZiI6MTcxMTY4NTczMSwicGF0aCI6Ii8xNDYzNTM4MDQvMzE3OTUxNTIyLWVlMGMxMDQxLTA0MTQtNDUyMS1hOWM2LWMyOTBmNzhjMmRkZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDMyOVQwNDE1MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03NGE0ZGQwMDYzMmU4MDAxYWZkODdiNmM4MGNmOWJjZWI0ZjI1NTMzYTc3MTQzN2ZiY2Y1Mzg2MTA0MWNlZTA2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.QoxqUgfjcLy_WtxY_JzSM0ZFLuVzn5_MDGMkOQuEy9o)

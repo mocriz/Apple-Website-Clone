@@ -57,6 +57,6 @@ And for styling, I use the TailwindCss framework and also use a little vanilla C
 4. **Resource**<br>
 For the web resource, I took it from the apple website, I only took the image from there. For the font, I took it from [this](https://github.com/gattadesmond/hugo-foundation6/tree/master) repository.
 
-That's it, Bye 👋
+That's it, Bye 
 
 

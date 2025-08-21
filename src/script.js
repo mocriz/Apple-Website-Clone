@@ -1,7 +1,7 @@
-const li = document.querySelectorAll(".li");
+const li = document.querySelectorAll(".footer-accordion li");
 
-li.forEach((subLi) =>{
+li.forEach((subLi) => {
     subLi.addEventListener("click", () => {
-        subLi.classList.toggle("active")
-    })
-})
+        subLi.classList.toggle("active");
+    });
+});
